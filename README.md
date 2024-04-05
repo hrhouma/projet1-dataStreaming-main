@@ -133,7 +133,7 @@ docker pull apache/nifi-registry
 then run the registry which managing version control for Nifi flow.
 
 ```bash 
-docker run --name nifi-registry -p 18080:18080 -d apache/nifi-registr
+docker run --name nifi-registry -p 18080:18080 -d apache/nifi-registry
 ```
 
 <img src="https://raw.githubusercontent.com/devhusnain/dataStreaming/main/images/Screenshot%20from%202023-08-04%2001-29-01.png?token=GHSAT0AAAAAACF4RWEKIDPNLURUGSABYGWEZGMDWIQ"/>
